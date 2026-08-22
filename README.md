@@ -3,13 +3,14 @@
 ## Project Overview
 This project analyzes sales and customer data from a print-on-demand business. 
 
-I used SQL in Google BigQuery to combine the 12 monthly sales tables from 2025, calculate customer-level RFM metrics, and assign customers to RFM segments. I then connected the resulting dataset to Power BI to analyze sales trends, product performance, and customer purchasing behavior.
+I used [SQL](https://github.com/LiamMitchell6767/print-on-demand-rfm-analysis/blob/e57d04f39a23a504a62bfda5466fcd95a72ba8f8/rfm_analysis.sql) in Google BigQuery to combine the 12 monthly sales tables from 2025, calculate customer-level RFM metrics, and assign customers to RFM segments. I then connected the resulting dataset to Power BI to analyze sales trends, product performance, and customer purchasing behavior.
 
 The main focus was on understanding **sales trends, product performance, and customer purchasing behavior**.
 
 ## Dashboard
 
 ![Sales Segmentation - RFM Analysis](https://github.com/LiamMitchell6767/print-on-demand-rfm-analysis/blob/dcd344cbdabff0f278ef3ba0ca64e0b548a64363/RFM%20Dashboard.png)
+[View Power BI Dashboard](https://github.com/LiamMitchell6767/print-on-demand-rfm-analysis/blob/e57d04f39a23a504a62bfda5466fcd95a72ba8f8/RFM%20Dashboard.pbix)
 
 ## Tools
 
